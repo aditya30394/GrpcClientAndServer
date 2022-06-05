@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/5znfqwuC3py5dkHgWayY+HnRaus/sc8NbfMRhRsJHlGYGEnu7vRtD7VlIQmxzILWCcfADnxuuFAD7K0ABCbA==",
+  "success": true,
+  "projectFilePath": "/Users/adityakumar/Projects/GrpcGreeterClient/GrpcGreeterClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/adityakumar/.nuget/packages/google.protobuf/3.21.1/google.protobuf.3.21.1.nupkg.sha512",
+    "/Users/adityakumar/.nuget/packages/grpc.core.api/2.46.1/grpc.core.api.2.46.1.nupkg.sha512",
+    "/Users/adityakumar/.nuget/packages/grpc.net.client/2.46.0/grpc.net.client.2.46.0.nupkg.sha512",
+    "/Users/adityakumar/.nuget/packages/grpc.net.common/2.46.0/grpc.net.common.2.46.0.nupkg.sha512",
+    "/Users/adityakumar/.nuget/packages/grpc.tools/2.46.3/grpc.tools.2.46.3.nupkg.sha512",
+    "/Users/adityakumar/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.3/microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "/Users/adityakumar/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
